@@ -1,0 +1,4 @@
+#define PROC_KSTACK_OFFSET 8 
+#define TF_CS 160 
+#define PROC_UACCESS 468 
+#define TRAPFRAME_SIZE 192 
